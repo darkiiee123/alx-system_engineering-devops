@@ -1,1 +1,1 @@
-A script that prints the absolute path name of the current working directory
+A script that deletes the directory my_first_directory that is in the /tmp directory
