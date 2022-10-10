@@ -1,1 +1,1 @@
-A script that prints “Hello, World”, followed by a new line to the standard output
+A script that display the content of the /etc/passwd
